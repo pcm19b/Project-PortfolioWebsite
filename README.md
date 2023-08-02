@@ -8,5 +8,6 @@ This is the project that is perhaps the most important in my journey as a data a
 * Installed a website framework from [HTML5Up](html5up.net)
 * Coded the framework of the website using the application Visual Studio Code.
   * Linked all individual project repositories from Github into a portfolio
+    ![](images/Screen Shot 2023-08-02 at 7.32.12 PM.png)
   * Connected all contact information including my LinkedIn, Github, and Resume.
 * Uploaded files into this repository in order to deploy the website through Github Pages.
