@@ -12,3 +12,5 @@ This is the project that is perhaps the most important in my journey as a data a
    ![alt text](https://github.com/pcm19b/Project-PortfolioWebsite/blob/5b834da33580ae51781929fdbd6981a1c1dd2444/images/Screen%20Shot%202023-08-02%20at%207.32.12%20PM.png)
   * Connected all contact information including my LinkedIn, Github, and Resume.
 * Uploaded files into this repository in order to deploy the website through Github Pages.
+
+## The finalized portfolio website can be accessed [here](https://pcm19b.github.io/Portfolio/index.html)
